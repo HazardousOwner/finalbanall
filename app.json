@@ -3,7 +3,7 @@
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
     "logo": "https://imgur.com/a/RSZviuc",
     "keywords": ["χᵖʳᵒ σωɳєʀ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/HazardousOwner/banalls",
+    "repository": "https://github.com/HazardousOwner/testbanall",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
