@@ -1,9 +1,9 @@
 {
     "name": "ʙᴀɴ ᴀʟʟ",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
-    "logo": "https://graph.org/file/e2ea01d5ee83d104615c1.jpg",
-    "keywords": ["sʜɪᴠᴀɴsʜ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/RDXSHUKLA/BANALL",
+    "logo": "https://imgur.com/a/RSZviuc",
+    "keywords": ["χᵖʳᵒ σωɳєʀ", "ʙᴀɴ-ᴀʟʟ"],
+    "repository": "https://github.com/HazardousOwner/banalls",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
@@ -13,7 +13,7 @@
         "OWNER": {
             "description": "ᴛʏᴘᴇ ʏᴏᴜʀ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @ ʟɪᴋᴇ ʙɪᴋᴀsʜʜᴀʟᴅᴇʀ",
             "required": true,
-            "value": "SHIVANSHDEVS"
+            "value": "xproowner"
         },
         "API_HASH": {
             "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʀɪᴀʙʟᴇ ғʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ",
